@@ -109,3 +109,15 @@ Project Maid 会根据此文件夹及其内容，来生成最终的文件。
 ```
 
 ## 待续
+
+## 贡献
+
+- Clone 此仓库
+
+- `npm i` 安装依赖
+
+- 使用 `Visual Studio Code` 打开， 按下 `F5` 或在菜单中选择 `Run > Start Debugging` 开始调试开发
+
+- `npm run package` 打包
+
+- 访问 [扩展商店](https://marketplace.visualstudio.com/)，点击右上角 `Publish extensions` 发布扩展
