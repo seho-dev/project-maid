@@ -24,7 +24,7 @@ Project Maid 主张约定优于配置，只要按照我们所事先约定的规�
 
 ### 安装
 
-在 Visual Studio Code 扩展商店中，搜索 `project-maid` 并安装即可。
+在 Visual Studio Code 扩展商店中，搜索 `project-maid` 并安装即可。或者[点击此处](https://marketplace.visualstudio.com/items?itemName=akirarika.project-maid)
 
 ## 模板功能
 
